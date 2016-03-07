@@ -13,3 +13,6 @@ Charlotte
 Orlando
 Dallas
 Phoenix
+Washington DC
+Nashville
+Las Vegas

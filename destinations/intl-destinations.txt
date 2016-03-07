@@ -15,3 +15,5 @@ Mexico City
 Athens
 Belfast
 Berlin
+Sydney
+Melbourne
