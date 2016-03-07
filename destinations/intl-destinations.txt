@@ -39,3 +39,5 @@ Krakow
 Prague
 Frankfurt
 Cartagena
+London
+Amsterdam

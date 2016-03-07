@@ -26,3 +26,5 @@ Boston
 Juneau
 San Jose (Costa Rica)
 San Juan (Puerto Rico)
+Salt Lake City
+Minneapolis
