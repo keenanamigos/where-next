@@ -16,3 +16,13 @@ Phoenix
 Washington DC
 Nashville
 Las Vegas
+Maui
+Honolulu
+Charleston
+Anchorage
+Denver
+Aspen
+Boston
+Juneau
+San Jose (Costa Rica)
+San Juan (Puerto Rico)

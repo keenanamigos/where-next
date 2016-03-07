@@ -17,3 +17,25 @@ Belfast
 Berlin
 Sydney
 Melbourne
+Reykjavik
+Auckland
+Hanoi
+Nassau
+Turks & Caicos
+Playa del Carmen
+Panama City
+Lima
+Crete
+Osaka
+Oslo
+Abu Dhabi
+Dubai
+Havana
+Rio de Janiero
+Shanghai
+Beijing
+Nuuk
+Krakow
+Prague
+Frankfurt
+Cartagena
