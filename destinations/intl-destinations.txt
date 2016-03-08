@@ -41,3 +41,6 @@ Frankfurt
 Cartagena
 London
 Amsterdam
+Tel Aviv
+Calgary
+Banff
