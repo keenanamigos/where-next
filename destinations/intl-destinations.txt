@@ -44,3 +44,5 @@ Amsterdam
 Tel Aviv
 Calgary
 Banff
+Geneva
+Zurich
