@@ -7,13 +7,11 @@ Seattle
 Miami 
 Philadelphia 
 New Orleans 
-Houston 
 Phoenix 
 Charlotte  
 Orlando
 Dallas
 Phoenix
-Washington DC
 Nashville
 Las Vegas
 Maui
@@ -28,4 +26,3 @@ San Jose (Costa Rica)
 San Juan (Puerto Rico)
 Salt Lake City
 Minneapolis
-Austin
