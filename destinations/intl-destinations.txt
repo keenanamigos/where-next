@@ -1,47 +1,47 @@
-Vancouver 
-Toronto 
-Montreal 
-Tokyo 
-Seoul 
-Rome 
-Edinburgh 
-Cork 
-Vienna 
-Lisbon 
-Barcelona 
-Madrid 
-Brussels 
-Mexico City 
-Athens
-Belfast
-Berlin
-Reykjavik
-Auckland
-Hanoi
-Nassau
+Vancouver, Canada 
+Toronto, Canada
+Montreal, Canada 
+Tokyo, Japan
+Seoul, South Korea 
+Rome, Italy 
+Edinburgh, Scotland 
+Cork, Ireland
+Vienna, Austria 
+Lisbon, Portugal
+Barcelona, Spain 
+Madrid, Spain 
+Brussels, Belgium 
+Mexico City, Mexico 
+Athens, Greece
+Belfast, Northern Ireland
+Berlin, Germany
+Reykjavik, Iceland
+Auckland, New Zealand
+Hanoi, Vietnam
+Nassau, Bahamas
 Turks & Caicos
-Playa del Carmen
-Panama City
-Lima
-Crete
-Osaka
-Oslo
-Abu Dhabi
-Dubai
-Havana
-Rio de Janiero
-Shanghai
-Beijing
-Nuuk
-Krakow
-Prague
-Frankfurt
-Cartagena
-London
-Amsterdam
-Tel Aviv
-Calgary
-Banff
-Geneva
-Zurich
-Helsinki
+Playa del Carmen, Mexico
+Panama City, Panama
+Lima, Peru
+Crete, Greece
+Osaka, Japan
+Oslo, Norway
+Abu Dhabi, United Arab Emirates
+Dubai, United Arab Emirates
+Havana, Cuba
+Rio de Janiero, Brazil 
+Shanghai, China
+Beijing, China
+Nuuk, Greenland
+Krakow, Poland
+Prague, Czech Republic
+Frankfurt, Germany
+Cartagena, Colombia
+London, England
+Amsterdam, Netherlands
+Tel Aviv, Isreal
+Calgary, Canada
+Banff, Canada
+Geneva, Switzerland
+Zurich, Switzerland
+Helsinki, Finland

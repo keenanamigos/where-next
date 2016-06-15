@@ -1,28 +1,27 @@
-San Diego 
-Los Angeles 
-New York City 
-San Francisco 
-Portland 
-Seattle 
-Miami 
-Philadelphia 
-New Orleans 
-Phoenix 
-Charlotte  
-Orlando
-Dallas
-Phoenix
-Nashville
-Las Vegas
-Maui
-Honolulu
-Charleston
-Anchorage
-Denver
-Aspen
-Boston
-Juneau
-San Jose (Costa Rica)
-San Juan (Puerto Rico)
-Salt Lake City
-Minneapolis
+San Diego, California
+Los Angeles, California
+New York City, New York
+San Francisco, California
+Portland, Oregon
+Seattle, Washington 
+Miami, Florida 
+Philadelphia, Pennsylvania 
+New Orleans, Louisiana 
+Phoenix, Arizona 
+Charlotte, North Carolina   
+Orlando, Florida
+Dallas, Texas
+Nashville, Tennessee
+Las Vegas, Nevada
+Maui, Hawaii
+Honolulu, Hawaii
+Charleston, South Carolina
+Anchorage, Alaska
+Denver, Colorado
+Aspen, Colorado
+Boston, Massachusets
+Juneau, Alaska
+San Jose, Costa Rica
+San Juan, Costa Rica
+Salt Lake City, Utah
+Minneapolis, Minnesota
