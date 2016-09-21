@@ -6,7 +6,7 @@ international = "./destinations/intl-destinations.txt" #stores the international
 holiday = "./destinations/2016-holiday.txt" #stores the holiday locations
 
 #Get Input
-travel = raw_input("Would you like to travel domestically, internationally, or on a holiday trip for your next adventure? Please enter 'domestic', 'international', or 'holiday': ")
+travel = raw_input("Travel domestically, internationally, or on a holiday trip for your next adventure? Please enter 'domestic', 'international', or 'holiday': ")
 travel = travel.lower()
 
 #Validate Input
