@@ -1,5 +1,4 @@
 San Diego, California
-Los Angeles, California
 New York City, New York
 Portland, Oregon
 Seattle, Washington 
@@ -24,3 +23,4 @@ San Jose, Costa Rica
 San Juan, Costa Rica
 Salt Lake City, Utah
 Minneapolis, Minnesota
+Detroit, Michigan

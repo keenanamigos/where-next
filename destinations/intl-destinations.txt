@@ -48,3 +48,5 @@ Helsinki, Finland
 San Juan, Puerto Rico
 Cape Town, South Africa
 Johannesburg, South Africa
+Santiago, Dominican Republic
+Santo Domingo, Dominican Republic
