@@ -3,7 +3,7 @@ import random
 
 domestic = "./destinations/us-destinations.txt" #stores the domestic locations
 international = "./destinations/intl-destinations.txt" #stores the international locations
-holiday = "./destinations/2016-holiday.txt" #stores the holiday locations
+holiday = "./destinations/holiday.txt" #stores the holiday locations
 
 #Get Input
 travel = raw_input("Travel domestically, internationally, or on a holiday trip for your next adventure? Please enter 'domestic', 'international', or 'holiday': ")
