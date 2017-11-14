@@ -39,6 +39,7 @@ Frankfurt, Germany
 Cartagena, Colombia
 London, England
 Amsterdam, Netherlands
+Rotterdam, Netherlands
 Tel Aviv, Israel
 Geneva, Switzerland
 Zurich, Switzerland
