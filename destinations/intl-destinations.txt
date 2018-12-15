@@ -1,5 +1,4 @@
-Vancouver, Canada 
-Toronto, Canada
+Vancouver, Canada
 Montreal, Canada 
 Tokyo, Japan
 Seoul, South Korea 
@@ -12,7 +11,6 @@ Madrid, Spain
 Brussels, Belgium 
 Mexico City, Mexico 
 Athens, Greece
-Belfast, Northern Ireland
 Berlin, Germany
 Reykjavik, Iceland
 Auckland, New Zealand
@@ -36,8 +34,6 @@ Krakow, Poland
 Prague, Czech Republic
 Frankfurt, Germany
 Cartagena, Colombia
-London, England
-Amsterdam, Netherlands
 Rotterdam, Netherlands
 Tel Aviv, Israel
 Geneva, Switzerland
