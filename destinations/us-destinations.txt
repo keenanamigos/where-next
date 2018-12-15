@@ -1,19 +1,15 @@
 San Diego, California
 Portland, Oregon
 Seattle, Washington 
-Miami, Florida 
-Philadelphia, Pennsylvania
-Phoenix, Arizona 
+Philadelphia, Pennsylvania 
 Charlotte, North Carolina   
 Orlando, Florida
 Dallas, Texas
-Nashville, Tennessee
 Las Vegas, Nevada
 Maui, Hawaii
 Honolulu, Hawaii
 Charleston, South Carolina
 Anchorage, Alaska
-Denver, Colorado
 Aspen, Colorado
 Juneau, Alaska
 San Jose, Costa Rica
@@ -22,4 +18,3 @@ Salt Lake City, Utah
 Minneapolis, Minnesota
 Columbus, OH
 Eugene, Oregon
-Providence, Rhode Island
