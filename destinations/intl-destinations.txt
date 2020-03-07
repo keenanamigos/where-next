@@ -1,5 +1,4 @@
-Vancouver, Canada
-Montreal, Canada 
+Vancouver, Canada 
 Tokyo, Japan
 Seoul, South Korea 
 Rome, Italy 
@@ -34,6 +33,7 @@ Prague, Czech Republic
 Frankfurt, Germany
 Cartagena, Colombia
 Rotterdam, Netherlands
+Utrecht, Netherlands
 Tel Aviv, Israel
 Geneva, Switzerland
 Zurich, Switzerland

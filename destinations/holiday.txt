@@ -4,3 +4,9 @@ Melbourne, Australia
 Sydney, Australia
 Tel Aviv, Israel
 London, United Kingdom
+Lagos, Nigeria
+Accra, Ghana
+Tokyo, Japan
+Seoul, South Korea
+Montevideo, Uruguay
+Nassau, Bahamas
